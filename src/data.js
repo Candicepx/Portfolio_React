@@ -4,24 +4,24 @@ export const projects = [
         subtitle: "Symfony",
         description:
             "Réalisation d'un site de Quiz",
-        image: "./quiz.jpg",
-        link: "https://github.com/Candicepx",
+        image: "./quiz.png",
+        link: "https://github.com/Candicepx/My_Quiz",
     },
     {
         title: "FreeAds",
         subtitle: "Laravel",
         description:
             "Réalisation d'un site d'annonces",
-        image: "./annonces.jpg",
-        link: "https://github.com/Candicepx",
+        image: "./freeads.png",
+        link: "https://github.com/Candicepx/FreeAds",
     },
     {
-        title: "PiePHP",
-        subtitle: "PHP",
+        title: "My IRC",
+        subtitle: "NodeJS React Socket.io",
         description:
-            "Création d'un framework MVC en PHP?",
-        image: "./mvc.png",
-        link: "https://github.com/Candicepx",
+            "Création d'un chat",
+        image: "./irc.png",
+        link: "https://github.com/Candicepx/My_IRC",
     },
     {
         title: "PiePHP",
