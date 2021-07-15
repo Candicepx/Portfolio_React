@@ -39,6 +39,8 @@ export default function About() {
                     />
                 </div>
             </div>
+            <br/>
+            <br/>
         </section>
     );
 }
